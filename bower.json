@@ -1,0 +1,24 @@
+{
+  "name": "bluepage",
+  "description": "projeto final do curso certificação Bootstrap",
+  "main": "index.js",
+  "authors": [
+    "marcuscustodio"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "bluepage"
+  ],
+  "homepage": "https://github.com/kevenjesus/projeto-final-certificacao-bootstrap",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "v4.0.0-alpha.6",
+    "components-font-awesome": "^4.7.0"
+  }
+}
